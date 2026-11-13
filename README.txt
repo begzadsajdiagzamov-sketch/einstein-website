@@ -1,0 +1,1 @@
+ALBERT EINSTEIN WEB-SAHIFASI\n\nIshga tushirish:\n1. Papkani oching.\n2. index.html faylini Chrome yoki Safari brauzerida oching.\n\nInternet ulangan bo‘lsa, Google Fonts va Einstein portreti yuklanadi.\n
